@@ -1,0 +1,4 @@
+github.com/franela/goblin v0.0.0-20200805001810-0a92c4cdab8a h1:NGqGHPvYmPkSDbQP7rV/HVV6WgCos5OP4+0in5wVqZs=
+github.com/franela/goblin v0.0.0-20200805001810-0a92c4cdab8a/go.mod h1:VzmDKDJVZI3aJmnRI9VjAn9nJ8qPPsN1fqzr9dqInIo=
+github.com/gedex/inflector v0.0.0-20170307190818-16278e9db813 h1:Uc+IZ7gYqAf/rSGFplbWBSHaGolEQlNLgMgSE3ccnIQ=
+github.com/gedex/inflector v0.0.0-20170307190818-16278e9db813/go.mod h1:P+oSoE9yhSRvsmYyZsshflcR6ePWYLql6UU1amW13IM=
