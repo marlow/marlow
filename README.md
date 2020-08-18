@@ -146,10 +146,6 @@ For every other field found on the source `struct`, marlow will use the followin
 While everyone's generated marlow code will likely be unique, the [`examples/library`] application includes a
 comprehensive test suite that demonstrates the features of marlow using 3 models - [`Author`], [`Book`] and [`Genre`].
 
-Although generated documentation is not currently available (see [`GH-67`]), the html coverage reports for tagged 
-builds can be found [here][generated-coverage.url]. There you will be able to see exactly what code is generated given
-the models in the example app.
-
 #### Supported Drivers
 
 The follow is a list of officially support [`driver.Driver`] implementations supported by the generated marlow code. To request an additional driver, feel free to open up an [issue][issues].
@@ -164,8 +160,6 @@ The follow is a list of officially support [`driver.Driver`] implementations sup
 ----
 
 ![logo][logo.img]
-
-generated coverage badge provided by [gendry]
 
 ----
 
