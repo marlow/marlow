@@ -11,6 +11,7 @@ for interacting with a project's data persistence layer while maintaining strong
 
 [![report.img]][report.url]
 [![godoc.img]][godoc.url]
+![build](https://github.com/marlow/marlow/workflows/build/badge.svg)
 
 ---- 
 
